@@ -2,6 +2,4 @@
 This is a console-based finance simulation game...
 You can contribute and make it more intense and joyfull...
 
-
-Current issues : 
-The program gives an error of vector in run-time
+I am looking forward to add buisness feature. If you are able to make any interesting buisness feature, you can contribute
