@@ -1,0 +1,1 @@
+Solve a bug of realestate in which the first letter of a property(except first) is removed.
